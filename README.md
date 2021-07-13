@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">TO DO LIST USING SELF-DEFINED LIBRARY</h1>
+<h1 style="text-align: center;">TO DO LIST USING SELF-DEFINED LIBRARY(BASED ON REACT-REDUX)</h1>
 <img src="/assets/img/img.PNG" alt="">
 <h1 style="text-align: center;">LIST OF FEATURES</h1>
 <ol type="1">
